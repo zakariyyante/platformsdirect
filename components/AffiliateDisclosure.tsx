@@ -1,6 +1,6 @@
 export default function AffiliateDisclosure() {
   return (
-    <div className="bg-[#06020f] border-b border-white/5 py-3">
+    <div className="bg-[#060b16] border-b border-white/5 py-3">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-center gap-2 text-[9px] uppercase tracking-[0.2em] text-white/30 font-black">
           <div className="w-4 h-4 rounded-full bg-white/5 flex items-center justify-center border border-white/10">

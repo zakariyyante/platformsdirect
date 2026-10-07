@@ -18,7 +18,7 @@ export default function AboutSection() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {/* Why Our Reviews Stand Out */}
           <div className="p-1 rounded-3xl bg-linear-to-br from-white/10 to-transparent">
-            <div className="bg-[#150a25] p-10 rounded-[23px] h-full">
+            <div className="bg-[#101a2c] p-10 rounded-[23px] h-full">
               <h3 className="text-2xl font-black mb-8 flex items-center gap-4 uppercase tracking-tight text-white/90">
                 <span className="w-10 h-10 flex items-center justify-center rounded-full bg-primary/10 text-primary text-sm">01</span>
                 EXCELLENCE ANALYTIQUE
@@ -42,7 +42,7 @@ export default function AboutSection() {
 
           {/* Responsible Usage */}
           <div className="p-1 rounded-3xl bg-linear-to-br from-red-500/20 to-transparent">
-            <div className="bg-[#150a25] p-10 rounded-[23px] h-full">
+            <div className="bg-[#101a2c] p-10 rounded-[23px] h-full">
               <h3 className="text-2xl font-black mb-8 flex items-center gap-4 uppercase tracking-tight text-red-500">
                 <span className="w-10 h-10 flex items-center justify-center rounded-full bg-red-500/10 text-red-500 text-sm">02</span>
                 UTILISATION RESPONSABLE

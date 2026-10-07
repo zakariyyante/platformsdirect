@@ -37,7 +37,7 @@ export default function MobileModal({ gclid }: MobileModalProps) {
     >
       <div className="min-h-screen flex flex-col spotlight-bg">
         {/* Modal Header */}
-        <div className="sticky top-0 z-[110] bg-[#06020f]/80 backdrop-blur-xl border-b border-white/5 px-4 py-3 flex items-center justify-between">
+        <div className="sticky top-0 z-[110] bg-[#060b16]/80 backdrop-blur-xl border-b border-white/5 px-4 py-3 flex items-center justify-between">
           <div className="relative w-32 h-8">
             <Image 
               src="/logo.png" 

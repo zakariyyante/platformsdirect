@@ -1,5 +1,6 @@
 <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M50 5L15 20V45C15 67.5 30 88 50 95C70 88 85 67.5 85 45V20L50 5Z" fill="#ff8c00" />
-  <path d="M50 20L65 45H35L50 20Z" fill="white" />
-  <path d="M50 80V45H65L50 80Z" fill="#9d4edd" />
+  <path d="M 19.36 24.29 A 40 40 0 0 1 87.59 36.32" stroke="#034DA4" stroke-width="9" stroke-linecap="round" />
+  <path d="M 87.59 36.32 A 40 40 0 0 1 43.05 89.39" stroke="#1C2434" stroke-width="9" stroke-linecap="round" />
+  <path d="M 43.05 89.39 A 40 40 0 0 1 19.36 24.29" stroke="#D01327" stroke-width="9" stroke-linecap="round" />
+  <text x="50" y="67" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700" fill="#1C2434" text-anchor="middle">p</text>
 </svg>

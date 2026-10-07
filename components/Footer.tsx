@@ -5,7 +5,7 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-[#05020a] py-24 border-t border-white/5">
+    <footer className="bg-[#04070d] py-24 border-t border-white/5">
       <div className="container mx-auto px-4">
         <div className="flex flex-col items-center mb-20">
           {/* Logo */}
@@ -13,7 +13,7 @@ export default function Footer() {
             <div className="relative w-64 h-16">
               <Image 
                 src="/logo.png" 
-                alt="Platform Spotlight" 
+                alt="PlatformsDirect" 
                 fill 
                 className="object-contain grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-500"
               />

@@ -27,7 +27,7 @@ const getBadgeTextColor = (hex: string) => {
   const g = (num >> 8) & 255;
   const b = num & 255;
   const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
-  return luminance > 0.6 ? '#0a0514' : '#fff';
+  return luminance > 0.6 ? '#070c16' : '#fff';
 };
 
 // Simple seeded PRNG so per-brand "randomness" stays stable across server/client renders.
@@ -100,7 +100,7 @@ export default function BrandCard({ brand, gclidValue, rank, variant = 'default'
 
       <div
         onClick={handleCardClick}
-        className="bg-gradient-to-b from-[#120b26] to-[#0a0517] border border-white/10 relative group cursor-pointer rounded-3xl overflow-hidden shadow-2xl transition-all duration-300 hover:border-primary/40 hover:-translate-y-0.5"
+        className="bg-gradient-to-b from-[#101a2c] to-[#070c16] border border-white/10 relative group cursor-pointer rounded-3xl overflow-hidden shadow-2xl transition-all duration-300 hover:border-primary/40 hover:-translate-y-0.5"
       >
         <div className={isModal ? 'p-4' : 'p-5'}>
           {/* Brand (logo + score) left, Bonus + CTA right */}
