@@ -17,11 +17,21 @@ export interface Brand {
 const generateId = (name: string) => name.toLowerCase().replace(/\s+/g, '-');
 
 export const brands: Brand[] = [
-
+  {
+        id: "PMU",
+        name: "PMU",
+        logo: "/brands/pmu.png",
+        rating: 9.6,
+        bonus: "JUSQU'À 100 € DE BONUS",
+        url: "https://www.pmu.fr/?gclid=",
+        isMobile: false,
+        votes: 12450,
+        displayUrl: "pmu.fr"
+      },
   {
     id: "bwin",
     name: "Bwin",
-    logo: "/bwin_dark.png",
+    logo: "/brands/bwin_dark.png",
     rating: 9.6,
     bonus: "Votre mise remboursée jusqu'à 100€",
     url: "https://mediaserver.entainpartners.com/renderBanner.do?zoneId=2159573&clickid=",
