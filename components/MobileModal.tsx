@@ -140,7 +140,7 @@ export default function MobileModal({ gclid }: MobileModalProps) {
         {/* Modal Footer */}
         <div className="bg-black/40 p-6 border-t border-white/5 text-center">
           <div className="text-[8px] text-white/10 uppercase tracking-[0.4em] font-black">
-            © 2026 PLATFORMSPOTLIGHT.COM
+            © 2026 PLATFORMSDIRECT.ORG
           </div>
         </div>
       </div>

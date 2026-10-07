@@ -41,7 +41,7 @@ export default function Footer() {
             <div className="md:col-span-2">
               <h4 className="text-white font-black uppercase tracking-[0.2em] mb-8 text-xs">Divulgation d&apos;Affiliation</h4>
               <p className="text-[11px] text-white/50 leading-relaxed font-medium uppercase tracking-wider mb-4">
-                Platform Spotlight est une plateforme de comparaison indépendante. Nous recevons des commissions de la part des marques présentées sur ce site. Ces commissions peuvent influencer le positionnement des marques, mais n&apos;affectent pas l&apos;impartialité de nos avis basés sur des tests réels.
+                PlatformsDirect est une plateforme de comparaison indépendante. Nous recevons des commissions de la part des marques présentées sur ce site. Ces commissions peuvent influencer le positionnement des marques, mais n&apos;affectent pas l&apos;impartialité de nos avis basés sur des tests réels.
               </p>
               <div className="flex items-center gap-2 text-[10px] text-primary font-black uppercase tracking-widest">
                 <span className="w-1.5 h-1.5 rounded-full bg-primary" />
@@ -68,7 +68,7 @@ export default function Footer() {
           </div>
           
           <div className="text-[9px] text-white/20 uppercase tracking-[0.4em] font-black">
-            © {currentYear} PLATFORMSPOTLIGHT.COM • TOUS DROITS RÉSERVÉS
+            © {currentYear} PLATFORMSDIRECT.ORG • TOUS DROITS RÉSERVÉS
           </div>
         </div>
       </div>

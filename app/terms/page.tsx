@@ -5,21 +5,21 @@ export default function TermsPage() {
       
       <div className="prose prose-invert max-w-none space-y-6 text-white/70">
         <p>
-          Bienvenue sur Platform Spotlight. En accédant à ce site Web, nous supposons que vous acceptez ces conditions d&apos;utilisation. Ne continuez pas à utiliser Platform Spotlight si vous n&apos;acceptez pas toutes les conditions énoncées sur cette page.
+          Bienvenue sur PlatformsDirect. En accédant à ce site Web, nous supposons que vous acceptez ces conditions d&apos;utilisation. Ne continuez pas à utiliser PlatformsDirect si vous n&apos;acceptez pas toutes les conditions énoncées sur cette page.
         </p>
 
         <h2 className="text-2xl font-bold text-white uppercase mt-12">Licence</h2>
         <p>
-          Sauf indication contraire, Platform Spotlight et/ou ses concédants de licence détiennent les droits de propriété intellectuelle pour tout le contenu de Platform Spotlight. Tous les droits de propriété intellectuelle sont réservés. Vous pouvez y accéder à partir de Platform Spotlight pour votre usage personnel, sous réserve des restrictions définies dans les présentes conditions d&apos;utilisation.
+          Sauf indication contraire, PlatformsDirect et/ou ses concédants de licence détiennent les droits de propriété intellectuelle pour tout le contenu de PlatformsDirect. Tous les droits de propriété intellectuelle sont réservés. Vous pouvez y accéder à partir de PlatformsDirect pour votre usage personnel, sous réserve des restrictions définies dans les présentes conditions d&apos;utilisation.
         </p>
 
         <h2 className="text-2xl font-bold text-white uppercase mt-12">Restrictions</h2>
         <p>Vous ne devez pas :</p>
         <ul className="list-disc pl-6 space-y-2">
-          <li>Republier le contenu de Platform Spotlight</li>
-          <li>Vendre, louer ou sous-licencier le contenu de Platform Spotlight</li>
-          <li>Reproduire, dupliquer ou copier le contenu de Platform Spotlight</li>
-          <li>Redistribuer le contenu de Platform Spotlight</li>
+          <li>Republier le contenu de PlatformsDirect</li>
+          <li>Vendre, louer ou sous-licencier le contenu de PlatformsDirect</li>
+          <li>Reproduire, dupliquer ou copier le contenu de PlatformsDirect</li>
+          <li>Redistribuer le contenu de PlatformsDirect</li>
         </ul>
 
         <h2 className="text-2xl font-bold text-white uppercase mt-12">Avis de non-responsabilité</h2>

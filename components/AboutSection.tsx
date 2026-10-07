@@ -29,7 +29,7 @@ export default function AboutSection() {
                   { text: 'Vérification en temps réel des bonus et promotions', icon: '✦' },
                   { text: 'Tests rigoureux des processus de retrait', icon: '✦' },
                   { text: 'Évaluation de la conformité ANJ et sécurité', icon: '✦' },
-                  { text: 'Algorithme de notation exclusif Platform Spotlight', icon: '✦' }
+                  { text: 'Algorithme de notation exclusif PlatformsDirect', icon: '✦' }
                 ].map((item, index) => (
                   <li key={index} className="flex items-start gap-4 group">
                     <span className="text-primary mt-1 group-hover:scale-125 transition-transform">{item.icon}</span>

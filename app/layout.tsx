@@ -8,7 +8,7 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"], display: 'swap' });
 
 export const metadata: Metadata = {
-  title: "Platform Spotlight - Le Guide des Meilleures Plateformes en France",
+  title: "PlatformsDirect - Le Guide des Meilleures Plateformes en France",
   description: "Découvrez les meilleurs sites de plateformes en France. Revues d'experts, bonus exclusifs et guides complets pour 2026.",
   icons: {
     icon: [
