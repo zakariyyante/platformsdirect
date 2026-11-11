@@ -37,7 +37,7 @@ export default function MobileModal({ gclid }: MobileModalProps) {
     >
       <div className="min-h-screen flex flex-col spotlight-bg">
         {/* Modal Header */}
-        <div className="sticky top-0 z-[110] bg-[#060b16]/80 backdrop-blur-xl border-b border-white/5 px-4 py-3 flex items-center justify-between">
+        <div className="sticky top-0 z-[110] bg-[#07070c]/80 backdrop-blur-xl border-b border-white/5 px-4 py-3 flex items-center justify-between">
           <div className="relative w-32 h-8">
             <Image 
               src="/logo.png" 
@@ -140,7 +140,7 @@ export default function MobileModal({ gclid }: MobileModalProps) {
         {/* Modal Footer */}
         <div className="bg-black/40 p-6 border-t border-white/5 text-center">
           <div className="text-[8px] text-white/10 uppercase tracking-[0.4em] font-black">
-            © 2026 PLATFORMSDIRECT.ORG
+            © 2026 PLATFORMSINSIDER.COM
           </div>
         </div>
       </div>

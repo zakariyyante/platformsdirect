@@ -7,17 +7,17 @@
   --color-primary: var(--primary);
   --color-accent: var(--accent);
   --color-gold: #e2b74b;
-  --color-navy-deep: #0b1322;
-  --color-blue-bright: #1565d8;
-  --color-red-bright: #e13245;
+  --color-ink-deep: #07070c;
+  --color-blue-bright: #17c4ff;
+  --color-purple-bright: #cc3cf0;
 }
 
 :root {
-  --background: #060b16;
+  --background: #07070c;
   --foreground: #ffffff;
-  --card-bg: #0b1322;
-  --primary: #1565d8; /* Blue from the PlatformsDirect logo ring */
-  --accent: #e13245;  /* Red from the PlatformsDirect logo ring */
+  --card-bg: #0d0d16;
+  --primary: #17c4ff; /* Blue from the PlatformsInsider logo gradient */
+  --accent: #cc3cf0;  /* Magenta/purple from the PlatformsInsider logo gradient */
 }
 
 @layer base {
@@ -36,7 +36,7 @@
   }
 
   .purple-glow {
-    box-shadow: 0 0 30px rgba(21, 101, 216, 0.2);
+    box-shadow: 0 0 30px rgba(204, 60, 240, 0.2);
   }
 
   .gold-glow {
@@ -44,11 +44,11 @@
   }
 
   .spotlight-bg {
-    background: radial-gradient(circle at 50% -20%, rgba(21, 101, 216, 0.15) 0%, transparent 70%);
+    background: radial-gradient(circle at 50% -20%, rgba(23, 196, 255, 0.15) 0%, transparent 70%);
   }
 
   .platform-card-bg {
-    @apply bg-[#101a2c] border border-white/5 hover:border-primary/40 transition-all duration-500;
+    @apply bg-[#15151f] border border-white/5 hover:border-primary/40 transition-all duration-500;
   }
 
   .gold-shimmer {
@@ -80,7 +80,7 @@
   }
 
   .podium-gradient {
-    background: linear-gradient(180deg, #101a2c 0%, #070c16 100%);
+    background: linear-gradient(180deg, #15151f 0%, #040406 100%);
   }
 }
 
