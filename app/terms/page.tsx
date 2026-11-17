@@ -5,21 +5,21 @@ export default function TermsPage() {
       
       <div className="prose prose-invert max-w-none space-y-6 text-white/70">
         <p>
-          Bienvenue sur PlatformsInsider. En accédant à ce site Web, nous supposons que vous acceptez ces conditions d&apos;utilisation. Ne continuez pas à utiliser PlatformsInsider si vous n&apos;acceptez pas toutes les conditions énoncées sur cette page.
+          Bienvenue sur PlatformsElite. En accédant à ce site Web, nous supposons que vous acceptez ces conditions d&apos;utilisation. Ne continuez pas à utiliser PlatformsElite si vous n&apos;acceptez pas toutes les conditions énoncées sur cette page.
         </p>
 
         <h2 className="text-2xl font-bold text-white uppercase mt-12">Licence</h2>
         <p>
-          Sauf indication contraire, PlatformsInsider et/ou ses concédants de licence détiennent les droits de propriété intellectuelle pour tout le contenu de PlatformsInsider. Tous les droits de propriété intellectuelle sont réservés. Vous pouvez y accéder à partir de PlatformsInsider pour votre usage personnel, sous réserve des restrictions définies dans les présentes conditions d&apos;utilisation.
+          Sauf indication contraire, PlatformsElite et/ou ses concédants de licence détiennent les droits de propriété intellectuelle pour tout le contenu de PlatformsElite. Tous les droits de propriété intellectuelle sont réservés. Vous pouvez y accéder à partir de PlatformsElite pour votre usage personnel, sous réserve des restrictions définies dans les présentes conditions d&apos;utilisation.
         </p>
 
         <h2 className="text-2xl font-bold text-white uppercase mt-12">Restrictions</h2>
         <p>Vous ne devez pas :</p>
         <ul className="list-disc pl-6 space-y-2">
-          <li>Republier le contenu de PlatformsInsider</li>
-          <li>Vendre, louer ou sous-licencier le contenu de PlatformsInsider</li>
-          <li>Reproduire, dupliquer ou copier le contenu de PlatformsInsider</li>
-          <li>Redistribuer le contenu de PlatformsInsider</li>
+          <li>Republier le contenu de PlatformsElite</li>
+          <li>Vendre, louer ou sous-licencier le contenu de PlatformsElite</li>
+          <li>Reproduire, dupliquer ou copier le contenu de PlatformsElite</li>
+          <li>Redistribuer le contenu de PlatformsElite</li>
         </ul>
 
         <h2 className="text-2xl font-bold text-white uppercase mt-12">Avis de non-responsabilité</h2>

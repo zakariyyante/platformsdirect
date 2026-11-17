@@ -5,7 +5,7 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-[#050508] py-24 border-t border-white/5">
+    <footer className="bg-[#04070d] py-24 border-t border-white/5">
       <div className="container mx-auto px-4">
         <div className="flex flex-col items-center mb-20">
           {/* Logo */}
@@ -13,7 +13,7 @@ export default function Footer() {
             <div className="relative w-64 h-16">
               <Image 
                 src="/logo.png" 
-                alt="PlatformsInsider" 
+                alt="PlatformsElite" 
                 fill 
                 className="object-contain grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-500"
               />
@@ -41,7 +41,7 @@ export default function Footer() {
             <div className="md:col-span-2">
               <h4 className="text-white font-black uppercase tracking-[0.2em] mb-8 text-xs">Divulgation d&apos;Affiliation</h4>
               <p className="text-[11px] text-white/50 leading-relaxed font-medium uppercase tracking-wider mb-4">
-                PlatformsInsider est une plateforme de comparaison indépendante. Nous recevons des commissions de la part des marques présentées sur ce site. Ces commissions peuvent influencer le positionnement des marques, mais n&apos;affectent pas l&apos;impartialité de nos avis basés sur des tests réels.
+                PlatformsElite est une plateforme de comparaison indépendante. Nous recevons des commissions de la part des marques présentées sur ce site. Ces commissions peuvent influencer le positionnement des marques, mais n&apos;affectent pas l&apos;impartialité de nos avis basés sur des tests réels.
               </p>
               <div className="flex items-center gap-2 text-[10px] text-primary font-black uppercase tracking-widest">
                 <span className="w-1.5 h-1.5 rounded-full bg-primary" />
@@ -68,7 +68,7 @@ export default function Footer() {
           </div>
           
           <div className="text-[9px] text-white/20 uppercase tracking-[0.4em] font-black">
-            © {currentYear} PLATFORMSINSIDER.COM • TOUS DROITS RÉSERVÉS
+            © {currentYear} PLATFORMSELITE.COM • TOUS DROITS RÉSERVÉS
           </div>
         </div>
       </div>
